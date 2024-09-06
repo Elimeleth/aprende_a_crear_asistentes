@@ -1,0 +1,9 @@
+qdrant_storage/
+path/
+fastembed
+.vscode
+__pycache__
+py/
+.env
+.pytho*
+*.pkl
